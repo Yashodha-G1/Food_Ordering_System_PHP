@@ -17,6 +17,7 @@ Inside the “htdocs” folder, paste the project folder (not the .zip one, but 
 
 # Admin Login Info Details:
 Email : ccbd
+
 Password: Please Contact me directly at yashodha9080826@gmail.com.
 
 # Frontend Preview: 
